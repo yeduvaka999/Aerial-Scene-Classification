@@ -1,2 +1,2 @@
-# My_Porjects
-I want to all the projects here.
+# My_Projects
+I want to do all the projects here.
